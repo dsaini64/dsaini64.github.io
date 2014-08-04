@@ -252,6 +252,10 @@ a:focus {
     padding-top: 100px;
 }
 
+.changethecolor{
+  color: yellow;
+}
+
 .projects-section {
     width: 100%;
     padding: 50px 0;
